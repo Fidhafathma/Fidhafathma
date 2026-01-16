@@ -1,26 +1,47 @@
-<h1 align="center">Hi there, I'm Fidhaa ✨
+<h1 align="center">Hi there 👋, I'm Fidha Fathima</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Web Enthusiast | Problem Solver</h3>
 
+---
 
-<!--/div><h3 align="left">Connect with me:</h3-->
-## Connect with me: 
+## 👩‍💻 About Me  
+- 🌱 Currently learning the **MERN Stack**  
+- 💻 Strong foundation in **Web Development**  
+- 🧠 Passionate about **problem solving** and building user-friendly applications  
+- 🚀 Aim to grow into a skilled **Full-Stack Developer**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fidha-fathima/) 
+---
 
-## Languages and Tools:
-<!--/div><h3 align="left">Languages and Tools:</h3-->
+## 🤝 Connect with Me  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,java,c,py,html,mysql,css,javascript,linux" height="40"/>
+<a href="https://www.linkedin.com/in/fidha-fathima/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<!--/div><h3 align="left">STATS</h3-->
-# STATS 📈 
+---
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidhafathma&layout=compact&theme=nightowl" alt=Fidhafathma />
+## 🛠️ Languages and Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,java,c,python,mysql,linux" height="45"/>
+</p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidhafathma&show_icons=true&locale=en&theme=tokyonight" alt="Fidhafathma" /></p>
+---
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fidhafathma&theme=highcontrast" alt="Fidhafathma" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidhafathma&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidhafathma&layout=compact&theme=nightowl" />
+</p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fidhafathma&theme=highcontrast" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fidhafathma&label=Profile%20views&color=0e75b6&style=flat" alt="Fidhafathma" /> </p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fidhafathma&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
