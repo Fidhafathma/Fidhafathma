@@ -30,11 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fidhafathma&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidhafathma&layout=compact&theme=nightowl" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fidhafathma&theme=highcontrast" />
